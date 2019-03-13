@@ -1,0 +1,82 @@
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+    background-color: #DEDEDE;
+    color: #333;
+    padding: 20px 0 28px 0;
+    margin: 0;
+}
+
+img {
+
+    height: auto;
+    max-width: 100%;
+}
+p {
+    margin: 0;
+}
+.side {
+    display: block;
+}
+.app-title {
+    text-align: center;
+    font-weight: normal;
+    font-size: 2.6rem;
+}
+
+.beer {
+    max-width: 650px;
+    padding: 20px;
+    margin: 30px auto;
+    background-color: #FFF;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, .1);
+    overflow: hidden;
+}
+
+.beer h4 {
+    margin: 0 0 6px 0;
+}
+
+.beer-photo {  
+    float: left;
+    width: 12%;
+    margin: 0 50px;
+   
+}
+
+.fitheight {
+    width: auto;
+    background-color: aqua;
+    height: fit-content;
+}
+
+.pet-name {
+    font-size: 2rem;
+    font-weight: normal;
+    margin: 0 0 1rem 0;
+}
+
+.species {
+    font-size: .9rem;
+    color: #888;
+    vertical-align: middle;
+}
+
+.ingredient-list {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 17px;
+    font-size: .85rem;
+    line-height: 1.5;
+}
+h4.item {
+    margin-top: 40px;
+    margin-bottom: 0;
+}
+
+.footer {
+    font-size: .7rem;
+    color: #888;
+    text-align: center;
+    margin: 0;
+}
